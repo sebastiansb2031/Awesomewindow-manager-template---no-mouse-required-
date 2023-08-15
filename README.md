@@ -1,2 +1,2 @@
 # Awesomewindow-manager-template---no-mouse-required-
-Window Management template "awesome" in which the use of the mouse is not necessary but all its functions are also possible to use only with the keyboard
+Window Management template "awesome" in which the use of the mouse is not necessary but all its functions are also possible to use only with the keyboard. It was developed for a debian machine, but it would works for any debian based operating system with "Awesome" window manager installed. The new commands will appear in the default commands menú.
